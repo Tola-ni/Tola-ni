@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tola-ni
 - 👀 I’m interested in Data science.
-- 🌱 I’m currently SQL and R.
+- 🌱 I’m currently learning SQL and R.
 - 💞️ I’m looking for internship as a junior Data Analyst.
 - 📫 
 
